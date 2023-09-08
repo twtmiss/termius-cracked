@@ -2,6 +2,8 @@
 
 Termius Version 8.1.0 (8.1.0)测试通过
 
+官网下载Termius，安装。PS：我是先注册账号登进去14天试用的
+
 ## 破解方法
 
 安装npm 安装asar
